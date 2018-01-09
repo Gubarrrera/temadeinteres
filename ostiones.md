@@ -1,5 +1,5 @@
 # Especie de interés
-El [ostión (Fig. 1)](http://www.radiokashana.org/noticias/quieren-cultivar-osti%C3%B3n-japones-en-la-laguna-ojo-de-liebre](http://www.radiokashana.org/noticias/quieren-cultivar-osti%C3%B3n-japones-en-la-laguna-ojo-de-liebre "ostión") es un recurso importante de amplia explotación en las costas del Golfo de México.
+El [ostión (Fig. 1)](http://www.radiokashana.org/noticias/quieren-cultivar-osti%C3%B3n-japones-en-la-laguna-ojo-de-liebre](http://www.radiokashana.org/noticias/quieren-cultivar-osti%C3%B3n-japones-en-la-laguna-ojo-de-liebre "ostión") es un recurso *importante* de amplia explotación en las costas del Golfo de México.
 
 <p align="center">
   <img src ="https://cocinaconcuba.files.wordpress.com/2014/08/ostic3b3n.jpg" width=30%>
